@@ -5,7 +5,7 @@
     "id": "Berhasil"
   },
   "data": {
-    "registrationURL": "https://bonadenys.github.io/", // Jangan Diubah Cukup Di comment aja
+    "registrationURL": "https://bonadenys.github.io/",
     "kycRequirements": ["basic"]
   }
 }
