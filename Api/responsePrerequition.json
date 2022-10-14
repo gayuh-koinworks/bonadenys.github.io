@@ -1,0 +1,11 @@
+{
+  "status": 200,
+  "message": {
+    "en": "Success",
+    "id": "Berhasil"
+  },
+  "data": {
+    "registrationURL": "https://bonadenys.github.io/", // Jangan Diubah Cukup Di comment aja
+    "kycRequirements": ["basic"]
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "status": 200,
+  "message": {
+    "en": "Success",
+    "id": "Berhasil"
+  },
+  "data": {
+    "isShownPopup": true,
+    "isEligibleToRegister": true,
+    "isCompletedKYC": true,
+    "tplus2AccountVendor": "",
+    "tplus2AccountStatus": "",
+    "isAgreeAutoWithdrawal": false
+  }
+}
